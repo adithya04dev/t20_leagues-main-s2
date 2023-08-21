@@ -18,7 +18,7 @@ st.write('Compare batters by phases,bowling types')
 st.markdown("[Bowlers Comparison](https://t20leaguesbowlers-comp-s2.streamlit.app/)")
 
 st.write('Compare bowlers by phases,batting types')
-st.markdown("[Teams Batting Comparison](https://t20leagues-tbowling-comp-s2.streamlit.app/)")
+st.markdown("[Teams Batting Comparison](https://t20leagues-tbatting-comp-s2.streamlit.app/)")
 st.write('Compare Teams Batting by phases,bowling types')
 
 st.markdown("[Teams Bowling Comparison](https://t20leagues-tbowling-comp-s2.streamlit.app/)")
