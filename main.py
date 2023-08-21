@@ -3,33 +3,33 @@
 import streamlit as st 
 
 
-st.title('IPL Stats Page')
+st.title('Domestic T20 Leagues Page')
 
-st.markdown("[Batter Stats(Individual)](https://iplbatters.streamlit.app/)")
+st.markdown("[Batter Stats(Individual)](https://t20leagues-batters-s2.streamlit.app/)")
 st.write('Analyse batters stats by phases,bowling types')
 
-st.markdown("[Bowler Stats(Individual)](https://iplbowlers.streamlit.app/)")
+st.markdown("[Bowler Stats(Individual)](https://t20leagues-bowlers-s2.streamlit.app/)")
 st.write('Analyse batters stats by phases,bowling types')
 
 
-st.markdown("[Batters Comparison](https://iplbatterscomparison.streamlit.app/)")
+st.markdown("[Batters Comparison](https://t20leagues-batterscomp-s2.streamlit.app/)")
 st.write('Compare batters by phases,bowling types')
 
-st.markdown("[Bowlers Comparison](https://iplbowlerscomparision.streamlit.app/)")
+st.markdown("[Bowlers Comparison](https://t20leaguesbowlers-comp-s2.streamlit.app/)")
 
 st.write('Compare bowlers by phases,batting types')
 st.markdown("[Teams Batting Comparison](https://iplteamsbattingcomp.streamlit.app/)")
 st.write('Compare Teams Batting by phases,bowling types')
 
-st.markdown("[Teams Bowling Comparison](https://iplteamsbowlingcomp.streamlit.app/)")
+st.markdown("[Teams Bowling Comparison](https://t20leagues-tbowling-comp-s2.streamlit.app/)")
 
 st.write('Compare Teams Bowling by phases,batting types')
 
 
-st.markdown("[Teams Batting Stats(Individual)](https://iplteamsbatting.streamlit.app/)")
+st.markdown("[Teams Batting Stats(Individual)](https://t20leagues-tbatting-s2.streamlit.app/)")
 st.write('Analyse Teams Batting stats by phases,bowling types')
 
-st.markdown("[Teams Bowling (Individual)](https://iplteamsbowling.streamlit.app/)")
+st.markdown("[Teams Bowling (Individual)](https://t20leagues-tbowling-s2.streamlit.app/)")
 st.write('Analyse Teams Bowling  stats by phases,bowling types')
 
 
